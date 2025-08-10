@@ -10,7 +10,10 @@ Low and behold the pirate parrot!!
 
 Usage:
 ```bash
-curl -fsSL xxxxx | bash 
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/moist-bread/pirate-parrot/main/pirate.sh)" 
 ```
 
 Have fun THE ORDER!!
+
+Planned upgrades:
+- making the usage into a shorter and simpler curl command
